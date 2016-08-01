@@ -1,0 +1,6 @@
+http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js
+http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js
+http://cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.4/jquery.touchSwipe.min.js
+
+Note:
+Put this at the end of the document before </body>
