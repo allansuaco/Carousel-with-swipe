@@ -1,0 +1,6 @@
+<head>
+http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css
+</head>
+
+Note:
+Put this inside of <head> tag of html
